@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Junga Yang
-**`Full Stack Developer`**
+**`FRONTEND DEVELOPER · UX / HCI`**
 
 가나다라마바사
 
