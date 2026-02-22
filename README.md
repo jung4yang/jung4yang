@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Junga Yang
 **`FRONTEND DEVELOPER · UX / HCI`**
 
-가나다라마바사
 
 [![Website](https://custom-icon-badges.demolab.com/static/v1?label=Website&message=Portfolio&color=1E293B&style=for-the-badge&logo=globe)](ㅇㅇㅇㅇ)
 [![LinkedIn](https://custom-icon-badges.demolab.com/static/v1?label=LinkedIn&message=Connect&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungayang1129/)
