@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Junga Yang
-**`HCI`**
+**`HCI / Computer Vision`**
 
 
 [![Website](https://custom-icon-badges.demolab.com/static/v1?label=Website&message=Portfolio&color=1E293B&style=for-the-badge&logo=globe)](ㅇㅇㅇㅇ)
